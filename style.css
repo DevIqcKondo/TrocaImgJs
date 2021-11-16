@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Yuji+Mai&display=swap');
+img {
+    height: 300px;
+}
+h1 {
+    font-size: 60px; 
+    background-color: darkgray; 
+    color: black; 
+    text-align: center;
+    font-family: 'Yuji Mai', serif;
+}
+button {
+    border: none;
+    padding: 4px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background .3s;
+    border-radius: 5px;
+}
+body {
+    text-align: center;
+    background-image: url("fundo_freepik.jpg");
+    background-size: cover;
+    background-position-y: -150px
+    background-repeat no-repeat;
+}
